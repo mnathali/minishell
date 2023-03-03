@@ -1,5 +1,5 @@
 # minishell
-Create a program that behaves as shell
+Create a program that behaves like shell
 
 ## Description
 
